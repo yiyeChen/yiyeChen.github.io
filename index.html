@@ -68,6 +68,44 @@
         </tbody></table>
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
+          <tr onmouseout="lssr_stop()" onmouseover="lssr_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='lssr_image'>
+                  <img src='images_cyy/ICRA23_KGN.png' width="180"></div>
+                <img src='images_cyy/ICRA23_KGN.png' width="180">
+              </div>
+              <script type="text/javascript">
+                function lssr_start() {
+                  document.getElementById('lssr_image').style.opacity = "1";
+                }
+
+                function lssr_stop() {
+                  document.getElementById('lssr_image').style.opacity = "0";
+                }
+                lssr_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://arxiv.org/abs/2209.08752">
+                <papertitle>Keypoint-GraspNet: Keypoint-based 6-DoF Grasp Generation from the Monocular RGB-D input</papertitle>
+              </a>
+              <br>
+              <strong>Yiye Chen</strong>,
+              <a href="https://yunzhi.netlify.app/">Yunzhi Lin</a>,
+              <a href="https://pvela.gatech.edu/">Patricio A. Vela</a>
+              <br>
+              <em>IEEE International Conference on Robotics and Automation (ICRA)</em>, 2023
+              <br>
+              <a href="https://arxiv.org/abs/2209.08752">paper</a> /
+              <a href="">video</a>
+              <a href="">code</a>
+              <p></p>
+              <p>
+                A 6-DoF grasp deteciton approach based on RGB-D input.
+              </p>
+            </td>
+          </tr> 
 
           <tr onmouseout="lssr_stop()" onmouseover="lssr_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
@@ -88,7 +126,7 @@
               </script>
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle">
-              <a href="data_cyy/ICRA21_CGNet.pdf">
+              <a href="https://ieeexplore.ieee.org/abstract/document/9561994">
                 <papertitle>A Joint Network for Grasp Detection Conditioned on Natural Language
                     Commands</papertitle>
               </a>
@@ -100,7 +138,7 @@
               <br>
               <em>IEEE International Conference on Robotics and Automation (ICRA)</em>, 2021
               <br>
-              <a href="https://arxiv.org/abs/2104.00492">paper</a> /
+              <a href="https://ieeexplore.ieee.org/abstract/document/9561994">paper</a> /
               <a href="https://youtu.be/cpUbk5JBNvY">video</a>
               <p></p>
               <p>
