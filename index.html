@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
   <link rel="stylesheet" type="text/css" href="stylesheet.css">
-  <link rel="icon" type="image/png" href="images_cyy/icon_ironman.png"> 
+  <link rel="icon" type="image/png" href="images/icon_ironman.png"> 
 </head>
 
 <body>
@@ -39,7 +39,7 @@
               <p style="text-align:center">
                 <a href="mailto:yychen2019@gatech.edu">Email</a> &nbsp/&nbsp
                 <!--
-                <a href="data_cyy/Resume.pdf">CV</a> &nbsp/&nbsp
+                <a href="data/Resume.pdf">CV</a> &nbsp/&nbsp
                 -->
                 <!--
                 <a href="https://scholar.google.com/citations?hl=en&user=jktWnL8AAAAJ">Google Scholar</a> &nbsp/&nbsp
@@ -49,7 +49,7 @@
               </p>
             </td>
             <td style="padding:2.5%;width:40%;max-width:40%">
-              <a><img style="width:100%;max-width:100%" alt="profile photo" src="images_cyy/cyy_profile.jpg" class="hoverZoomLink"></a>
+              <a><img style="width:100%;max-width:100%" alt="profile photo" src="images/cyy_profile.jpg" class="hoverZoomLink"></a>
             </td>
           </tr>
         </tbody></table>
@@ -57,7 +57,7 @@
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
             <td style="padding:20px;width:100%;vertical-align:middle">
-              <heading>Research</heading>
+              <heading>Research (* means equal contribution)</heading>
               <!-- <p>
                 I'm interested in computer vision, machine learning, optimization, and image processing.
                 Much of my research is about inferring the physical world (shape, motion, color, light, etc) from images.
@@ -66,14 +66,63 @@
             </td>
           </tr>
         </tbody></table>
+
+        <!-- ################################  Papers -->
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
+
+          <!--  ==============  Paper4 -->
           <tr onmouseout="lssr_stop()" onmouseover="lssr_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
                 <div class="two" id='lssr_image'>
-                  <img src='images_cyy/ICRA23_KGN.png' width="180"></div>
-                <img src='images_cyy/ICRA23_KGN.png' width="180">
+                  <img src='images/ICLR2023_LEAP.png' width="180"></div>
+                <img src='images/ICLR2023_LEAP.png' width="180">
+              </div>
+              <script type="text/javascript">
+                function lssr_start() {
+                  document.getElementById('lssr_image').style.opacity = "1";
+                }
+
+                function lssr_stop() {
+                  document.getElementById('lssr_image').style.opacity = "0";
+                }
+                lssr_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="https://arxiv.org/abs/2209.08752">
+                <papertitle>Planning with Language Models through Iterative Energy Minimization</papertitle>
+              </a>
+              <br>
+              <a href="https://hychen-naza.github.io/">Hongyi Chen*</a>,
+              <a href="https://yilundu.github.io/">Yilun Du*</a>,
+              <strong>Yiye Chen*</strong>,
+              <a href="https://pvela.gatech.edu/">Patricio A. Vela</a>
+              <a href="https://cocosci.mit.edu/josh">Joshua B. Tenenbaum</a>
+              <br>
+              <em>International Conference on Learning Representations (ICLR)</em>, 2023
+              <br>
+              <a href="">paper</a> /
+              <a href="">project</a> /
+              <a href="">video</a> /
+              <a href="">code</a>
+              <p></p>
+              <!-- <p>
+                A 6-DoF grasp deteciton approach based on RGB-D input.
+              </p> -->
+            </td>
+          </tr> 
+
+
+
+          <!--  ==============  Paper3 -->
+          <tr onmouseout="lssr_stop()" onmouseover="lssr_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <div class="two" id='lssr_image'>
+                  <img src='images/ICRA23_KGN.png' width="180"></div>
+                <img src='images/ICRA23_KGN.png' width="180">
               </div>
               <script type="text/javascript">
                 function lssr_start() {
@@ -107,12 +156,13 @@
             </td>
           </tr> 
 
+          <!--  ==============  Paper2 -->
           <tr onmouseout="lssr_stop()" onmouseover="lssr_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
                 <div class="two" id='lssr_image'>
-                  <img src='images_cyy/ICRA21_CGNet.png' width="180"></div>
-                <img src='images_cyy/ICRA21_CGNet.png' width="180">
+                  <img src='images/ICRA21_CGNet.png' width="180"></div>
+                <img src='images/ICRA21_CGNet.png' width="180">
               </div>
               <script type="text/javascript">
                 function lssr_start() {
@@ -147,12 +197,13 @@
             </td>
           </tr> 
 
+          <!--  ==============  Paper1 -->
           <tr onmouseout="dualrefl_stop()" onmouseover="dualrefl_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
                 <div class="two" id='dualrefl_image'>
-                  <img src='images_cyy/ICRA21_DLSSNet.png' width="180"></div>
-                <img src='images_cyy/ICRA21_DLSSNet.png' width="180">
+                  <img src='images/ICRA21_DLSSNet.png' width="180"></div>
+                <img src='images/ICRA21_DLSSNet.png' width="180">
               </div>
               <script type="text/javascript">
                 function dualrefl_start() {
@@ -166,7 +217,7 @@
               </script>
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle">
-              <a href="data_cyy/ICRA_DLSSNet.pdf">
+              <a href="data/ICRA_DLSSNet.pdf">
                 <papertitle>Simultaneous Multi-Level Descriptor Learning and Semantic
                     Segmentation for Domain-Specific Relocalization</papertitle>
               </a>
@@ -178,7 +229,7 @@
               <br>
               <em>IEEE International Conference on Robotics and Automation (ICRA)</em>, 2021
               <br>
-              <a href="data_cyy/ICRA_DLSSNet.pdf">paper</a> 
+              <a href="data/ICRA_DLSSNet.pdf">paper</a> 
               <p></p>
               <p>
                 A dense multi-level descriptor learning framework for cross-season localization.
@@ -186,14 +237,16 @@
               </p>
             </td>
           </tr> 
+
+        <!-- ################################  End of Papers -->
         
           <!--
           <tr onmouseout="lssr_stop()" onmouseover="lssr_start()">
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
                 <div class="two" id='lssr_image'>
-                  <img src='images_cyy/undergrad_thesis.png' width="180"></div>
-                <img src='images_cyy/undergrad_thesis.png' width="180">
+                  <img src='images/undergrad_thesis.png' width="180"></div>
+                <img src='images/undergrad_thesis.png' width="180">
               </div>
               <script type="text/javascript">
                 function lssr_start() {
