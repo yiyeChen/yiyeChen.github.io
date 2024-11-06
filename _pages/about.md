@@ -45,8 +45,8 @@ Hi, TODO: introduction, paper summary...
 - *2015.09 - 2019.06*: B.E. in Aerospace Engineering, Beihang University. Beijing, China.
 
 # 💻 Industrial Experience 
-- *2023.05 - 2023.08*: Applied Scientist Internship, [Amazon Robotics](https://www.amazon.science/research-areas/robotics). Seattle, WA, United States.
 - *2024.05 - 2024.08*: Research Scientist Internship, [Microsoft Research](https://www.microsoft.com/en-us/research/). Redmond, WA, United States.
+- *2023.05 - 2023.08*: Applied Scientist Internship, [Amazon Robotics](https://www.amazon.science/research-areas/robotics). Seattle, WA, United States.
 
 # 📝 Publications 
 (\* denotes equal contribution)
