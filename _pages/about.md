@@ -49,8 +49,38 @@ My research interest lies in computer vision, language processing, and the appli
 - *2015.09 - 2019.06*: B.E. in Aerospace Engineering, Beihang University. Beijing, China.
 
 # 💻 Industrial Experience 
-- *2024.05 - 2024.08*: Research Scientist Internship, [Microsoft Research](https://www.microsoft.com/en-us/research/). Redmond, WA, United States.
-- *2023.05 - 2023.08*: Applied Scientist Internship, [Amazon Robotics](https://www.amazon.science/research-areas/robotics). Seattle, WA, United States.
+<div class='industrial-box'>
+  <div class="industrial-text">
+    <ul>
+      <li><strong>2024.05 - 2024.08</strong>: Research Scientist Internship, <a href="https://www.microsoft.com/en-us/research/">Microsoft Research</a>.</li>
+        <ul>
+          <li><strong>Mentor:</strong> Ben Lundell; <strong>Co-Mentor:</strong>Harpreet Sawhney</li>
+          <li><strong>Topic:</strong> Reasoning on scene graphs with Large Language Models (LLMs).</li>
+          <li>Redmond, WA, United States.</li>
+        </ul>
+    </ul>
+  </div>
+  <div class="industrial-image">
+    <img src='images/microsoft.png' alt="Microsoft Logo" width="100%">
+  </div>
+</div>
+<div class='industrial-box'>
+  <div class="industrial-text">
+    <ul>
+      <li><strong>2023.05 - 2023.08</strong>: Applied Scientist Internship, <a href="https://www.amazon.science/research-areas/robotics">Amazon Robotics</a>.</li>
+        <ul>
+          <li><strong>Manager:</strong> Sisir Karumanchi; <strong>Mentor:</strong>Shuai Han</li>
+          <li><strong>Topic:</strong> Uncertainty estimation on deep vision models for quantifying the robotic action reliability.</li>
+          <li>Seattle, WA, United States.</li>
+        </ul>
+    </ul>
+  </div>
+  <div class="industrial-image">
+    <img src='images/amazon.png' alt="Microsoft Logo" width="100%">
+  </div>
+</div>
+<!-- - *2024.05 - 2024.08*: Research Scientist Internship, [Microsoft Research](https://www.microsoft.com/en-us/research/). Redmond, WA, United States.
+- *2023.05 - 2023.08*: Applied Scientist Internship, [Amazon Robotics](https://www.amazon.science/research-areas/robotics). Seattle, WA, United States. -->
 
 # 📝 Publications 
 (\* denotes equal contribution)

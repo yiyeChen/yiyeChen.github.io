@@ -102,6 +102,48 @@
 
 }
 
+.industrial-box {
+    display: flex;
+    align-items: flex-start;  /* Align items to the top to keep text and images aligned */
+    flex-direction: row;
+    flex-wrap: nowrap;  /* Keep everything in the same row */
+    border-bottom: 1px #efefef solid;
+    padding: 0em 0;  
+
+    .industrial-text {
+        flex: 1;  /* Let text take all the remaining space */
+        max-width: 60%;  /* Limit the maximum width to 60% to make space for the image */
+        order: 1;
+    }
+
+    .industrial-text ul ul {
+        margin-left: 2em;  /* Increase margin to add extra indentation for sublist */
+        list-style-type: circle;  /* Change bullet style for differentiation */
+        padding-left: 0;  /* Remove extra padding */
+    }
+
+    .industrial-image {
+        flex: 0 0 35%;  /* Ensure the image container takes up 35% of the row */
+        padding-left: 2em;  /* Add padding to create some space between the text and image */
+        margin-top: 1em;  /* Push the image downward to align properly */
+        order: 2;
+        align-self: flex-start;  /* Align the image to the top of the container */
+    }
+
+    @include breakpoint($medium) {
+        .industrial-text {
+            max-width: 60%;
+            order: 1;
+        }
+
+        .industrial-image {
+            max-width: 35%;
+            order: 2;
+            padding-left: 2em;
+        }
+    }
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
