@@ -61,7 +61,7 @@ My research interest lies in computer vision, language processing, and the appli
 
 [**RwR: : A Reason-while-Retrieve framework for Reasoning on Scene Graphs with Large Language Models (LLMs) (_In submission_)**]()
 
-**Yiye Chen**, Harpreet Sawhney, Nicholas Gyde, Yanan Jian, Jack Saunders, Patricio Vela, Benjamin Lundell
+**Yiye Chen**, Harpreet Sawhney, Nicholas Gyde, Yanan Jian, Jack Saunders, Patricio A. Vela, Benjamin Lundell
 
 [Code(Coming Soon)]() | [Project(Coming Soon)]()
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
@@ -134,7 +134,7 @@ Hongyi Chen\*, Yilun Du\*, **Yiye Chen\***, Patricio A. Vela, Joshua B. Tenenbau
 
 **Yiye Chen**; Ruinian Xu; Yunzhi Lin; Patricio A. Vela
 
-[Presentation](files/present_KGN.mp4) | [Poster](files/poster_KGN.pdf) | [Supplementary](files/supp_KGN.mp4)
+[Presentation](https://youtu.be/tridtJes7uI) | [Supplementary](https://youtu.be/cpUbk5JBNvY?si=ygHC_R8E-HnS-PcL)
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - A language-conditioned robotic grasping method by fusing the visual and language embeddings.
 </div>
