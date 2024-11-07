@@ -24,7 +24,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, TODO: introduction, paper summary...
+Hello! I am a final year Ph.D. student at Institute for Robotics and Intelligent Machines, Georgia Institute of Technology, advised by [Prof. Patrico A. Vela](https://pvela.gatech.edu/). I am also fortunate to collaborate closely with [Ben Lundell](https://www.linkedin.com/in/benjamin-lundell) and [Harpreet Sawhney](https://scholar.google.ca/citations?hl=en&user=73FHLFAAAAAJ&view_op=list_works&sortby=pubdate) from Microsoft.
+
+My research interest lies in computer vision, language processing, and the application of these fields to develop robotic intelligence. Specifically, I am working on Robotic Grasping (including both 6-DoF and planar), Language Command Understanding, and addressing Open World challenges. More recently, I am also developing algorithms that leverage Large Language Models or Vision-Language Models to enable generalizable planning or spatial understanding capacities.
+
+[Here](files/resume.pdf) is my resume/CV (updated October 2024). I am currently open to full-time opportunities in industry. Feel free to reach out!
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -55,13 +59,13 @@ Hi, TODO: introduction, paper summary...
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/RwR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**RwR: : A Reason-while-Retrieve framework for Reasoning on Scene Graphs with LLMs (_In submission_)**]()
+[**RwR: : A Reason-while-Retrieve framework for Reasoning on Scene Graphs with Large Language Models (LLMs) (_In submission_)**]()
 
 **Yiye Chen**, Harpreet Sawhney, Nicholas Gyde, Yanan Jian, Jack Saunders, Patricio Vela, Benjamin Lundell
 
 [Code(Coming Soon)]() | [Project(Coming Soon)]()
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- A two-agent LLMs framework for reasoning and planning on scene graphs, leveraging their reasoning, code-writing, and communication skills.
 </div>
 </div>
 
@@ -75,7 +79,8 @@ Hi, TODO: introduction, paper summary...
 
 [Code](https://github.com/ivalab/WDiscOOD) | [Poster](files/poster_WDiscOOD.pdf)
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- A visual representation analysis approach to identify when a deep learning model doesn't know in the open-world setting.
+- Showing effectiveness in various vision backbones, including ResNet, Vision Transformer, and CLIP vision encoder.
 </div>
 </div>
 
@@ -89,6 +94,7 @@ Hongyi Chen\*, Yilun Du\*, **Yiye Chen\***, Patricio A. Vela, Joshua B. Tenenbau
 
 [Project](https://hychen-naza.github.io/projects/LEAP/index.html) | [Code](https://github.com/ivalab/WDiscOOD)
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- An energy-based learning and interative sampling method for action sequence planning with Transformer model.
 </div>
 </div>
 
@@ -102,6 +108,7 @@ Hongyi Chen\*, Yilun Du\*, **Yiye Chen\***, Patricio A. Vela, Joshua B. Tenenbau
 
 [Code](https://github.com/ivalab/KGN) | [Presentation](https://youtu.be/gK30iMHPr4I) | [Poster](files/poster_KGNv2.pdf) | [Supplementary](https://youtu.be/XDpdTdHo5eU)
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- Enhances Keypoint-GraspNet (see below) by addressing scale-related issues, where scale refers to the distance of a pose towards the single-view camera.
 </div>
 </div>
 
@@ -115,6 +122,7 @@ Hongyi Chen\*, Yilun Du\*, **Yiye Chen\***, Patricio A. Vela, Joshua B. Tenenbau
 
 [Code](https://github.com/ivalab/KGN) | [Presentation](https://youtu.be/oNHZ05kHBgI) | [Poster](files/poster_KGN.pdf) | [Supplementary](https://youtu.be/cT9lvTajRdA)
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- A keypoint-based approach for generating 6-DoF grasp poses from single-view RGB-D input.
 </div>
 </div>
 
@@ -128,6 +136,7 @@ Hongyi Chen\*, Yilun Du\*, **Yiye Chen\***, Patricio A. Vela, Joshua B. Tenenbau
 
 [Presentation](files/present_KGN.mp4) | [Poster](files/poster_KGN.pdf) | [Supplementary](files/supp_KGN.mp4)
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- A language-conditioned robotic grasping method by fusing the visual and language embeddings.
 </div>
 </div>
 
