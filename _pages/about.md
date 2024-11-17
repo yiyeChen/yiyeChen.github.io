@@ -171,7 +171,7 @@ Hongyi Chen\*, Yilun Du\*, **Yiye Chen\***, Patricio A. Vela, Joshua B. Tenenbau
 </div>
 
 <!-- Papers in a simple list without pictures  -->
-- [GASP: Gaussian Avatars with Synthetic Priors](), Jack Saunders, Vinay Namboodiri, Charlie Hewitt, Darren Cosker, Marek Kowalski, Nicholas Gyde, Shideh Rezaeifar, Tadas Baltrusaitis, Virginia Estellers, Yanan Jian, Yiye Chen, Benjamin Lundell, **In Submission 2024**.
+- [GASP: Gaussian Avatars with Synthetic Priors](), Jack Saunders, Charlie Hewitt, Yanan Jian, Marek Kowalski, Tadas Baltrusaitis, **Yiye Chen**, Darren Cosker, Virginia Estellers, Nicholas Gydé, Vinay Namboodiri, Benjamin Lundell , **In Submission 2024**.
 - [Simultaneous Multi-Level Descriptor Learning and Semantic Segmentation for Domain-Specific Relocalization](https://ieeexplore.ieee.org/abstract/document/9561964), Xiaolong Wu*, **Yiye Chen\***, Cédric Pradalier, Patricio A. Vela, **ICRA 2021**.
 
 # 📜 Academic Services
