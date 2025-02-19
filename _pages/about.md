@@ -24,7 +24,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am a final year Ph.D. student at Institute for Robotics and Intelligent Machines, Georgia Institute of Technology, advised by [Prof. Patrico A. Vela](https://pvela.gatech.edu/). I am also fortunate to collaborate closely with [Ben Lundell](https://www.linkedin.com/in/benjamin-lundell) and [Harpreet Sawhney](https://scholar.google.ca/citations?hl=en&user=73FHLFAAAAAJ&view_op=list_works&sortby=pubdate) from Microsoft.
+Hello! I am a final year Ph.D. student at Institute for Robotics and Intelligent Machines, Georgia Institute of Technology, advised by [Prof. Patrico A. Vela](https://pvela.gatech.edu/). 
+I am also fortunate to collaborate with [Dr. Benjamin Lundell](https://www.linkedin.com/in/benjamin-lundell) and [Dr. Harpreet Sawhney](https://scholar.google.ca/citations?hl=en&user=73FHLFAAAAAJ&view_op=list_works&sortby=pubdate) from Microsoft.
 
 My research interest lies in computer vision, language processing, and the application of these fields to develop robotic intelligence. Specifically, I am working on Robotic Grasping (including both 6-DoF and planar), Language Command Understanding, and addressing Open World challenges. More recently, I am also developing algorithms that leverage Large Language Models or Vision-Language Models to enable generalizable planning or spatial understanding capacities.
 
@@ -89,7 +90,7 @@ My research interest lies in computer vision, language processing, and the appli
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/RwR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**RwR: : A Reason-while-Retrieve framework for Reasoning on Scene Graphs with Large Language Models (LLMs) (_In submission_)**]()
+[**A Schema-Guided Reason-while-Retrieve framework for Reasoning on Scene Graphs with Large-Language-Models (LLMs) (_In submission_)**](https://arxiv.org/abs/2502.03450)
 
 **Yiye Chen**, Harpreet Sawhney, Nicholas Gyde, Yanan Jian, Jack Saunders, Patricio A. Vela, Benjamin Lundell
 
@@ -171,7 +172,7 @@ Hongyi Chen\*, Yilun Du\*, **Yiye Chen\***, Patricio A. Vela, Joshua B. Tenenbau
 </div>
 
 <!-- Papers in a simple list without pictures  -->
-- [GASP: Gaussian Avatars with Synthetic Priors](), Jack Saunders, Charlie Hewitt, Yanan Jian, Marek Kowalski, Tadas Baltrusaitis, **Yiye Chen**, Darren Cosker, Virginia Estellers, Nicholas Gydé, Vinay Namboodiri, Benjamin Lundell , **In Submission 2024**.
+- [GASP: Gaussian Avatars with Synthetic Priors](https://arxiv.org/abs/2412.07739), Jack Saunders, Charlie Hewitt, Yanan Jian, Marek Kowalski, Tadas Baltrusaitis, **Yiye Chen**, Darren Cosker, Virginia Estellers, Nicholas Gydé, Vinay Namboodiri, Benjamin Lundell, **In Submission 2024**.
 - [Simultaneous Multi-Level Descriptor Learning and Semantic Segmentation for Domain-Specific Relocalization](https://ieeexplore.ieee.org/abstract/document/9561964), Xiaolong Wu*, **Yiye Chen\***, Cédric Pradalier, Patricio A. Vela, **ICRA 2021**.
 
 # 📜 Academic Services
