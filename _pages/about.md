@@ -25,7 +25,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hello! I am a final year Ph.D. student at Institute for Robotics and Intelligent Machines, Georgia Institute of Technology, advised by [Prof. Patrico A. Vela](https://pvela.gatech.edu/). 
-I am also fortunate to collaborate with [Dr. Benjamin Lundell](https://www.linkedin.com/in/benjamin-lundell) and [Dr. Harpreet Sawhney](https://scholar.google.ca/citations?hl=en&user=73FHLFAAAAAJ&view_op=list_works&sortby=pubdate) from Microsoft.
+<!-- I am also fortunate to collaborate with [Dr. Benjamin Lundell](https://www.linkedin.com/in/benjamin-lundell) and [Dr. Harpreet Sawhney](https://scholar.google.ca/citations?hl=en&user=73FHLFAAAAAJ&view_op=list_works&sortby=pubdate) from Microsoft. -->
 
 My research interest lies in computer vision, language processing, and the application of these fields to develop robotic intelligence. Specifically, I am working on Robotic Grasping (including both 6-DoF and planar), Language Command Understanding, and addressing Open World challenges. More recently, I am also developing algorithms that leverage Large Language Models or Vision-Language Models to enable generalizable planning or spatial understanding capacities.
 
@@ -45,7 +45,7 @@ My research interest lies in computer vision, language processing, and the appli
  - *2021.01*: 📝Two papers accepted to <strong>ICRA 2021</strong>, on _language-conditioned robotic grasping_ and _semantic-based pixel feature learning for the camera relocalization_.
 
 # 📖 Educations
-- *2021.01 - 2025.12 (Expected)*: Ph.D. in Electrical and Computer Engineering, Georgia Tech. Advised by Dr. [Patricio A. Vela](https://pvela.gatech.edu/). Atlanta, GA, United States. 
+- *2021.01 - 2025 (Expected)*: Ph.D. in Electrical and Computer Engineering, Georgia Tech. Advised by Dr. [Patricio A. Vela](https://pvela.gatech.edu/). Atlanta, GA, United States. 
 - *2019.08 - 2020.12*: M.S. in Electrical and Computer Engineering, Georgia Tech. Atlanta, GA, United States.
 - *2015.09 - 2019.06*: B.E. in Aerospace Engineering, Beihang University. Beijing, China.
 
@@ -172,7 +172,7 @@ Hongyi Chen\*, Yilun Du\*, **Yiye Chen\***, Patricio A. Vela, Joshua B. Tenenbau
 </div>
 
 <!-- Papers in a simple list without pictures  -->
-- [GASP: Gaussian Avatars with Synthetic Priors](https://arxiv.org/abs/2412.07739), Jack Saunders, Charlie Hewitt, Yanan Jian, Marek Kowalski, Tadas Baltrusaitis, **Yiye Chen**, Darren Cosker, Virginia Estellers, Nicholas Gydé, Vinay Namboodiri, Benjamin Lundell, **In Submission 2024**.
+- [GASP: Gaussian Avatars with Synthetic Priors](https://arxiv.org/abs/2412.07739), Jack Saunders, Charlie Hewitt, Yanan Jian, Marek Kowalski, Tadas Baltrusaitis, **Yiye Chen**, Darren Cosker, Virginia Estellers, Nicholas Gydé, Vinay Namboodiri, Benjamin Lundell, **CVPR 2025**.
 - [Simultaneous Multi-Level Descriptor Learning and Semantic Segmentation for Domain-Specific Relocalization](https://ieeexplore.ieee.org/abstract/document/9561964), Xiaolong Wu*, **Yiye Chen\***, Cédric Pradalier, Patricio A. Vela, **ICRA 2021**.
 
 # 📜 Academic Services
