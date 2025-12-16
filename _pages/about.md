@@ -101,7 +101,7 @@ You can find my resume [here](files/resume.pdf) (updated May 2025).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 (Oral)</div><img src='images/RwR_multiagent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Schema-Guided Scene-Graph Reasoning based on Multi-Agent Large Language Model System (_In submission_)**](https://arxiv.org/abs/2502.03450)
+[**SG<sup>2</sup>: Schema-Guided Scene-Graph Reasoning based on Multi-Agent Large Language Model System**](https://arxiv.org/abs/2502.03450)
 
 **Yiye Chen**, Harpreet Sawhney, Nicholas Gyde, Yanan Jian, Jack Saunders, Patricio A. Vela, Benjamin Lundell
 
