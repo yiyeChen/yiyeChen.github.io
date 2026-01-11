@@ -42,11 +42,13 @@ You can find my resume [here](files/resume.pdf) (updated May 2025).
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
  - *2025.11*: 📝<a href="https://arxiv.org/abs/2502.03450">SG<sup>2</sup></a> has been accepted to <strong>AAAI 2026</strong>!
+ - *2025.05*: 💻Excited to come back to <strong>Microsoft</strong> Mixed Reality team as a research scientist intern.
  - *2025.02*: 📝<a href="https://microsoft.github.io/GASP">GASP</a> has been accepted to <strong>CVPR 2025</strong>!
- - *2024.05*: 🎉Excited to join the <strong>Microsoft</strong> Mixed Reality team as a research scientist intern.
+ - *2024.05*: 💻Excited to join <strong>Microsoft</strong> Mixed Reality team as a research scientist intern.
+ <!-- 🎉 -->
  - *2023.07*: 📝<a href="https://openaccess.thecvf.com/content/ICCV2023/html/Chen_WDiscOOD_Out-of-Distribution_Detection_via_Whitened_Linear_Discriminant_Analysis_ICCV_2023_paper.html">WDiscOOD</a> has been accepted to <strong>ICCV 2023</strong>!
  - *2023.06*: 📝<a href="https://ieeexplore.ieee.org/document/10342514)">KGNv2</a> has been accepted to <strong>IROS 2023</strong>!
- - *2023.05*: 🎉Excited to join the <strong>Amazon Robotics</strong> stow perception team as an applied scientist intern.
+ - *2023.05*: 💻Excited to join <strong>Amazon Robotics</strong> stow perception team as an applied scientist intern.
  - *2023.01*: 📝<a href="https://hychen-naza.github.io/projects/LEAP/index.html">LEAP</a> has been accepted to <strong>ICLR 2023</strong>!
  - *2023.01*: 📝<a href="https://ieeexplore.ieee.org/abstract/document/10161284">KGN</a> has been accepted to <strong>ICRA 2023</strong>!
  - *2021.01*: 📝<a href="https://ieeexplore.ieee.org/abstract/document/9561994">CGNet</a> and <a href="https://ieeexplore.ieee.org/abstract/document/9561964">DLSSNet</a> have been accepted to <strong>ICRA 2021</strong>!
