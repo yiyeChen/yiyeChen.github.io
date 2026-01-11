@@ -26,8 +26,8 @@ redirect_from:
 
 Hello! I am a final year Ph.D. student in the Institute for Robotics and Intelligent Machines, Georgia Institute of Technology, advised by [Prof. Patrico A. Vela](https://pvela.gatech.edu/). 
 
-In the summers of both 2024 and 2025, I was a Research Intern at Microsoft Mixed Reality, collaborating with [Ben Lundell](https://www.linkedin.com/in/benjamin-lundell/) and [Harpreet Sawhney](https://scholar.google.com/citations?user=73FHLFAAAAAJ&hl=en).
-In summer 2023, I was a Applied Scientist intern at Amazon Robotics, working with [Sisir Karumanchi](https://scholar.google.com/citations?user=3AJYxmsAAAAJ&hl=en) and [Shuai Han](https://scholar.google.com/citations?user=nGZ45wQAAAAJ&hl=en).
+In the summers of both 2024 and 2025, I was a Research Intern at Microsoft Mixed Reality, collaborating with [Dr. Ben Lundell](https://www.linkedin.com/in/benjamin-lundell/) and [Dr. Harpreet Sawhney](https://scholar.google.com/citations?user=73FHLFAAAAAJ&hl=en).
+In summer 2023, I was a Applied Scientist intern at Amazon Robotics, working with [Dr. Sisir Karumanchi](https://scholar.google.com/citations?user=3AJYxmsAAAAJ&hl=en) and [Dr. Shuai Han](https://scholar.google.com/citations?user=nGZ45wQAAAAJ&hl=en).
 <!-- I am also fortunate to collaborate with [Dr. Benjamin Lundell](https://www.linkedin.com/in/benjamin-lundell) and [Dr. Harpreet Sawhney](https://scholar.google.ca/citations?hl=en&user=73FHLFAAAAAJ&view_op=list_works&sortby=pubdate) from Microsoft. -->
 
 My research interests are in computer vision, language processing, and their integration to advance robotic intelligence. Specifically, my work spans Robotic Grasping (both 6-DoF and planar), Language Command Understanding, and addressing Open World challenges. More recently, I have been developing algorithms that leverage Large Language Models and Vision-Language Models to enable generalizable planning and spatial understanding.
@@ -41,13 +41,16 @@ You can find my resume [here](files/resume.pdf) (updated May 2025).
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+ - *2025.11*: 📝<a href="https://arxiv.org/abs/2502.03450">SG<sup>2</sup></a> has been accepted to <strong>AAAI 2026</strong>!
+ - *2025.02*: 📝<a href="https://microsoft.github.io/GASP">GASP</a> has been accepted to <strong>CVPR 2025</strong>!
+ - *2023.06*: 📝<a href="https://ieeexplore.ieee.org/document/10342514)">KGNv2</a> has been accepted to <strong>IROS 2023</strong>!
  - *2024.05*: 🎉Excited to join the <strong>Microsoft</strong> Mixed Reality team as a research scientist intern.
- - *2023.07*: 📝One paper accepted to <strong>ICCV 2023</strong>, on _a feature-based image Out-of-Distribution detection method_.
- - *2023.06*: 📝One paper accepted to <strong>IROS 2023</strong>,on _an improved keypoint-based 6-DoF grasp synthesis strategy_.
+ - *2023.07*: 📝<a href="https://openaccess.thecvf.com/content/ICCV2023/html/Chen_WDiscOOD_Out-of-Distribution_Detection_via_Whitened_Linear_Discriminant_Analysis_ICCV_2023_paper.html">WDiscOOD</a> has been accepted to <strong>ICCV 2023</strong>!
+ - *2023.06*: 📝<a href="https://ieeexplore.ieee.org/document/10342514)">KGNv2</a> has been accepted to <strong>IROS 2023</strong>!
  - *2023.05*: 🎉Excited to join the <strong>Amazon Robotics</strong> stow perception team as an applied scientist intern.
- - *2023.01*: 📝One paper accepted to <strong>ICLR 2023</strong>, on _action sequence planning with the transformer model_.
- - *2023.01*: 📝One paper accepted to <strong>ICRA 2023</strong>, on _Keypoint-based 6-DoF grasp detection_.
- - *2021.01*: 📝Two papers accepted to <strong>ICRA 2021</strong>, on _language-conditioned robotic grasping_ and _semantic-based pixel feature learning for the camera relocalization_.
+ - *2023.01*: 📝<a href="https://hychen-naza.github.io/projects/LEAP/index.html">LEAP</a> has been accepted to <strong>ICLR 2023</strong>!
+ - *2023.01*: 📝<a href="https://ieeexplore.ieee.org/abstract/document/10161284">KGN</a> has been accepted to <strong>ICRA 2023</strong>!
+ - *2021.01*: 📝<a href="https://ieeexplore.ieee.org/abstract/document/9561994">CGNet</a> and <a href="https://ieeexplore.ieee.org/abstract/document/9561964">DLSSNet</a> have been accepted to <strong>ICRA 2021</strong>!
 
 # 📖 Educations
 - *2021.01 - 2025 (Expected)*: Ph.D. in Electrical and Computer Engineering, Georgia Tech. Advised by Dr. [Patricio A. Vela](https://pvela.gatech.edu/). Atlanta, GA, United States. 
@@ -183,7 +186,7 @@ Hongyi Chen\*, Yilun Du\*, **Yiye Chen\***, Patricio A. Vela, Joshua B. Tenenbau
 </div>
 
 <!-- Papers in a simple list without pictures  -->
-- [GASP: Gaussian Avatars with Synthetic Priors](https://arxiv.org/abs/2412.07739), Jack Saunders, Charlie Hewitt, Yanan Jian, Marek Kowalski, Tadas Baltrusaitis, **Yiye Chen**, Darren Cosker, Virginia Estellers, Nicholas Gydé, Vinay Namboodiri, Benjamin Lundell, **CVPR 2025**.
+- [GASP: Gaussian Avatars with Synthetic Priors](https://microsoft.github.io/GASP/), Jack Saunders, Charlie Hewitt, Yanan Jian, Marek Kowalski, Tadas Baltrusaitis, **Yiye Chen**, Darren Cosker, Virginia Estellers, Nicholas Gydé, Vinay Namboodiri, Benjamin Lundell, **CVPR 2025**.
 - [Simultaneous Multi-Level Descriptor Learning and Semantic Segmentation for Domain-Specific Relocalization](https://ieeexplore.ieee.org/abstract/document/9561964), Xiaolong Wu*, **Yiye Chen\***, Cédric Pradalier, Patricio A. Vela, **ICRA 2021**.
 
 # 📜 Academic Services
