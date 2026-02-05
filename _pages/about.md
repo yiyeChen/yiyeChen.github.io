@@ -41,7 +41,7 @@ You can find my resume [here](files/resume.pdf) (updated May 2025).
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
- - *2025.11*: 📝<a href="https://arxiv.org/abs/2502.03450">SG<sup>2</sup></a> has been accepted to <strong>AAAI 2026</strong>!
+ - *2025.11*: 📝<a href="https://arxiv.org/abs/2502.03450">SG<sup>2</sup></a> has been accepted to <strong>AAAI 2026 (oral)</strong>!
  - *2025.05*: 💻Excited to come back to <strong>Microsoft</strong> Mixed Reality team as a research scientist intern.
  - *2025.02*: 📝<a href="https://microsoft.github.io/GASP">GASP</a> has been accepted to <strong>CVPR 2025</strong>!
  - *2024.05*: 💻Excited to join <strong>Microsoft</strong> Mixed Reality team as a research scientist intern.
@@ -101,7 +101,21 @@ You can find my resume [here](files/resume.pdf) (updated May 2025).
 # 📝 Publications 
 (\* denotes equal contribution)
 
-<!-- RwR -->
+<!-- VISTA-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission</div><img src='images/VISTA_teaser.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**VISTA: Enhancing Visual Conditioning via Track-Following Preference Optimization in Vision-Language-Action Models**]()
+
+**Yiye Chen**, Yanan Jian, Xiaoyi Dong, Shuxin Cao, Jing Wu, Patricio A. Vela, Benjamin E. Lundell, Dongdong Chen
+
+[Project](https://vista-vla.github.io/) | [Code(Coming Soon)]() 
+<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- An VLA training approach based on Direct Preference Optimization (DPO) to enhance policy visual grounding and performance.
+</div>
+</div>
+
+<!-- SG2 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 (Oral)</div><img src='images/RwR_multiagent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -116,7 +130,7 @@ You can find my resume [here](files/resume.pdf) (updated May 2025).
 </div>
 
 <!-- WDiscOOD -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV2023_WDiscOOD.png' alt="sym" width="85%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV2023_WDiscOOD.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**WDiscOOD: Out-of-Distribution Detection via Whitened Linear Discriminant Analysis**](https://openaccess.thecvf.com/content/ICCV2023/html/Chen_WDiscOOD_Out-of-Distribution_Detection_via_Whitened_Linear_Discriminant_Analysis_ICCV_2023_paper.html)
@@ -187,11 +201,12 @@ Hongyi Chen\*, Yilun Du\*, **Yiye Chen\***, Patricio A. Vela, Joshua B. Tenenbau
 </div>
 
 <!-- Papers in a simple list without pictures  -->
+- [OS-Marathon: Benchmarking Computer-Use Agents on Long-Horizon Repetitive Tasks](https://os-marathon.github.io/), Jing Wu, Daphne Barretto, **Yiye Chen**, Nicholas Gydé,  Yanan Jian,  Yuhang He,  Vibhav Vineet, **In submission**.
 - [GASP: Gaussian Avatars with Synthetic Priors](https://microsoft.github.io/GASP/), Jack Saunders, Charlie Hewitt, Yanan Jian, Marek Kowalski, Tadas Baltrusaitis, **Yiye Chen**, Darren Cosker, Virginia Estellers, Nicholas Gydé, Vinay Namboodiri, Benjamin Lundell, **CVPR 2025**.
 - [Simultaneous Multi-Level Descriptor Learning and Semantic Segmentation for Domain-Specific Relocalization](https://ieeexplore.ieee.org/abstract/document/9561964), Xiaolong Wu*, **Yiye Chen\***, Cédric Pradalier, Patricio A. Vela, **ICRA 2021**.
 
 # 📜 Academic Services
-- **Conference Reviewer**: IROS’23-24, ICRA’24, CVPR’24-25, ICLR’25
+- **Conference Reviewer**: IROS’23-24, ICRA’24, CVPR’24-25, ICLR’25, WACV'26, AAAI'26
 - **Journal Reviewer**: The International Journal of Robotics Research (IJRR), IEEE Robotics and Automation Letters (RA-L), IEEE Transactions on Industrial Electronics (TIE)
 
 <!-- # 🎖 Honors and Awards
