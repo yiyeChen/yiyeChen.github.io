@@ -105,7 +105,7 @@ You can find my resume [here](files/resume.pdf) (updated May 2025).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission</div><img src='images/VISTA_teaser.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**VISTA: Enhancing Visual Conditioning via Track-Following Preference Optimization in Vision-Language-Action Models**]()
+[**VISTA: Enhancing Visual Conditioning via Track-Following Preference Optimization in Vision-Language-Action Models**](https://arxiv.org/abs/2602.05049)
 
 **Yiye Chen**, Yanan Jian, Xiaoyi Dong, Shuxin Cao, Jing Wu, Patricio A. Vela, Benjamin E. Lundell, Dongdong Chen
 
